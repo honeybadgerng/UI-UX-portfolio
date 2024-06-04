@@ -71,6 +71,80 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 5,
+    title: "Yarn Social media app",
+    des: "Yarn is a unique social media application that stands out by utilizing pidgin English as its primary means of user interaction. Embrace the opportunity to join and experience this novel social media experience.",
+    img: "/yarn-social-media-app.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://mern-social-media2.vercel.app/",
+  },
+
+  {
+    id: 7,
+    title: "Mervielle Hub Official website",
+    des: "Luxurious spa nestled in the heart of Lagos. Immerse yourself in a haven of serenity where you can indulge in a range of rejuvenating treatments and pampering experiences.",
+    img: "/mervielle.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://honeybadgerng.github.io/Mervielle_hub/",
+  },
+  {
+    id: 9,
+    title: "RJB Xclusive property website",
+    des: "RJB Xclusive Properties is a distinguished real estate agency specializing in providing exceptional property solutions. With our extensive knowledge and expertise in the industry, we are committed to assisting clients in finding their ideal properties in Nigeria.",
+    img: "/xclusiveproperties.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://xclusiveproperties.homes/",
+  },
+  {
+    id: 8,
+    title: "The Resolve Interior Designs",
+    des: "The Resolve Decor, a rapidly growing startup dedicated to transforming interiors across Nigeria. its not a bad 3",
+    img: "/resolvedecor.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "/https://honeybadgerng.github.io/interor_decor_sample_site_1/",
+  },
+
+  {
+    id: 10,
+    title: "Ragalia Gadget store",
+    des: "Welcome to our intuitive and innovative gadget e-commerce website! We take inspiration from the latest trends and technology to bring you an exceptional online shopping experience.",
+    img: "/regalia_gadget_sample.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://honeybadgerng.github.io/gadgetsitesample1/",
+  },
+  {
+    id: 11,
+    title: "Secure press Security",
+    des: "Welcome to Secure Press, a visionary and imaginary security company committed to providing top-notch security solutions. Our virtual security services are designed to protect individuals, businesses, and organizations from potential threats and vulnerabilities.",
+    img: "/securepress.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "/https://honeybadgerng.github.io/securepress/",
+  },
+  {
+    id: 12,
+    title: "Xclusive Realtors",
+    des: "Uae real estate company",
+    img: "/xclusive realtors.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://uae-properties-teal.vercel.app/",
+  },
+  {
+    id: 13,
+    title: "Saz Portfolio.png",
+    des: "Graphic designer",
+    img: "/saz portfolio.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://uae-properties-teal.vercel.app/",
+  },
+  {
+    id: 14,
+    title: "Audipsalm",
+    des: "Tech company",
+    img: "/audipsalm.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://honeybadgerng.github.io/audipsalmwebapp/",
+  },
+  {
     id: 1,
     title: "3D Solar System Planets to Explore",
     des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
@@ -101,6 +175,14 @@ export const projects = [
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
+  },
+  {
+    id: 6,
+    title: "Yarn Decentralized Social media app",
+    des: "Yarn, an innovative social media application, has been developed using React, Chakra UI, Lens protocol, Ethers, and GraphQL.  You are welcome to explore and make use of it at your convenience.",
+    img: "/yarn-decentralized-social-media-app.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://decentralized-social-media-app-three.vercel.app/",
   },
 ];
 
