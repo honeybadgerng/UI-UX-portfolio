@@ -78,7 +78,14 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://mern-social-media2.vercel.app/",
   },
-
+  {
+    id: 12,
+    title: "Xclusive Realtors",
+    des: "Uae real estate company",
+    img: "/xclusive realtors.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://uae-properties-teal.vercel.app/",
+  },
   {
     id: 7,
     title: "Mervielle Hub Official website",
@@ -119,14 +126,6 @@ export const projects = [
     img: "/securepress.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://honeybadgerng.github.io/securepress/",
-  },
-  {
-    id: 12,
-    title: "Xclusive Realtors",
-    des: "Uae real estate company",
-    img: "/xclusive realtors.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://uae-properties-teal.vercel.app/",
   },
   {
     id: 13,
