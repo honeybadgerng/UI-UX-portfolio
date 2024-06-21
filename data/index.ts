@@ -93,7 +93,7 @@ export const projects = [
     des: "RJB Xclusive Properties is a distinguished real estate agency specializing in providing exceptional property solutions. With our extensive knowledge and expertise in the industry, we are committed to assisting clients in finding their ideal properties in Nigeria.",
     img: "/xclusiveproperties.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://xclusiveproperties.homes/",
+    link: "https://honeybadgerng.github.io/RJB-Properties/",
   },
   {
     id: 8,
@@ -101,7 +101,7 @@ export const projects = [
     des: "The Resolve Decor, a rapidly growing startup dedicated to transforming interiors across Nigeria. its not a bad 3",
     img: "/resolvedecor.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/https://honeybadgerng.github.io/interor_decor_sample_site_1/",
+    link: "https://honeybadgerng.github.io/interor_decor_sample_site_1/",
   },
 
   {
@@ -118,7 +118,7 @@ export const projects = [
     des: "Welcome to Secure Press, a visionary and imaginary security company committed to providing top-notch security solutions. Our virtual security services are designed to protect individuals, businesses, and organizations from potential threats and vulnerabilities.",
     img: "/securepress.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/https://honeybadgerng.github.io/securepress/",
+    link: "https://honeybadgerng.github.io/securepress/",
   },
   {
     id: 12,
@@ -134,7 +134,7 @@ export const projects = [
     des: "Graphic designer",
     img: "/saz portfolio.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://uae-properties-teal.vercel.app/",
+    link: "https://honeybadgerng.github.io/saz-solutions/",
   },
   {
     id: 14,
@@ -174,7 +174,7 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://iphone-doc.vercel.app/",
   },
   {
     id: 6,
