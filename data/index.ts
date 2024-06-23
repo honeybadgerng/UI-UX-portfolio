@@ -77,7 +77,7 @@ export const projects = [
     title: "Yarn Social media app",
     des: "Yarn is a unique social media application that stands out by utilizing pidgin English as its primary means of user interaction. Embrace the opportunity to join and experience this novel social media experience.",
     img: "/yarn-social-media-app.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/mongodb.svg", "/js.svg"],
     link: "https://mern-social-media2.vercel.app/",
   },
   {
@@ -85,7 +85,7 @@ export const projects = [
     title: "Xclusive Realtors",
     des: "Uae real estate company",
     img: "/xclusive realtors.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/next.svg", "/re.svg", "/js.svg", "/fm.svg"],
     link: "https://uae-properties-teal.vercel.app/",
   },
   {
@@ -93,7 +93,7 @@ export const projects = [
     title: "Brainwave",
     des: "An AI app that is going to revolutionize tech industry",
     img: "/brainwave.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/next.svg", "vite.svg", "/tail.svg", "/ts.svg", "/re.svg"],
     link: "https://jsm-brainwave.com/",
   },
   {
@@ -101,7 +101,7 @@ export const projects = [
     title: "My Next.js Portfolio",
     des: "This is my previous portfolio",
     img: "/nextjs portfolio.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg", "/gsap.svg"],
     link: "https://next-js-portfolio-pearl.vercel.app/",
   },
   {
@@ -109,7 +109,13 @@ export const projects = [
     title: "Xclusive Mart",
     des: "An ongoing eCommerce project",
     img: "/xclusive mart.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+      "/ts.svg",
+      "/strapi1.svg",
+      "/stripe.svg",
+    ],
     link: "https://ecomerce-vert-kappa.vercel.app/",
   },
   {
@@ -117,7 +123,7 @@ export const projects = [
     title: "Mervielle Hub Official website",
     des: "Luxurious spa nestled in the heart of Lagos. Immerse yourself in a haven of serenity where you can indulge in a range of rejuvenating treatments and pampering experiences.",
     img: "/mervielle.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/html.svg", "/css.svg", "/js.svg", "/three.svg", "/gsap.svg"],
     link: "https://honeybadgerng.github.io/Mervielle_hub/",
   },
   {
@@ -125,7 +131,7 @@ export const projects = [
     title: "RJB Xclusive property website",
     des: "RJB Xclusive Properties is a distinguished real estate agency specializing in providing exceptional property solutions. With our extensive knowledge and expertise in the industry, we are committed to assisting clients in finding their ideal properties in Nigeria.",
     img: "/xclusiveproperties.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/html.svg", "/css.svg", "/js.svg", "/three.svg", "/gsap.svg"],
     link: "https://honeybadgerng.github.io/RJB-Properties/",
   },
   {
@@ -133,7 +139,7 @@ export const projects = [
     title: "The Resolve Interior Designs",
     des: "The Resolve Decor, a rapidly growing startup dedicated to transforming interiors across Nigeria. its not a bad 3",
     img: "/resolvedecor.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/html.svg", "/css.svg", "/js.svg", "/three.svg", "/gsap.svg"],
     link: "https://honeybadgerng.github.io/interor_decor_sample_site_1/",
   },
 
@@ -142,7 +148,7 @@ export const projects = [
     title: "Ragalia Gadget store",
     des: "Welcome to our intuitive and innovative gadget e-commerce website! We take inspiration from the latest trends and technology to bring you an exceptional online shopping experience.",
     img: "/regalia_gadget_sample.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/html.svg", "/css.svg", "/js.svg", "/stripe.svg"],
     link: "https://honeybadgerng.github.io/gadgetsitesample1/",
   },
   {
@@ -150,7 +156,7 @@ export const projects = [
     title: "Secure press Security",
     des: "Welcome to Secure Press, a visionary and imaginary security company committed to providing top-notch security solutions. Our virtual security services are designed to protect individuals, businesses, and organizations from potential threats and vulnerabilities.",
     img: "/securepress.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/html.svg", "/css.svg", "/js.svg"],
     link: "https://honeybadgerng.github.io/securepress/",
   },
   {
@@ -158,7 +164,7 @@ export const projects = [
     title: "Saz Portfolio.png",
     des: "Graphic designer",
     img: "/saz portfolio.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/html.svg", "/css.svg", "/js.svg"],
     link: "https://honeybadgerng.github.io/saz-solutions/",
   },
   {
@@ -166,7 +172,7 @@ export const projects = [
     title: "Audipsalm",
     des: "Tech company",
     img: "/audipsalm.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/html.svg", "/css.svg", "/js.svg"],
     link: "https://honeybadgerng.github.io/audipsalmwebapp/",
   },
   {
@@ -206,7 +212,7 @@ export const projects = [
     title: "Yarn Decentralized Social media app",
     des: "Yarn, an innovative social media application, has been developed using React, Chakra UI, Lens protocol, Ethers, and GraphQL.  You are welcome to explore and make use of it at your convenience.",
     img: "/yarn-decentralized-social-media-app.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/eth.svg", "/graphql.svg", "/fm.svg"],
     link: "https://decentralized-social-media-app-three.vercel.app/",
   },
 ];
