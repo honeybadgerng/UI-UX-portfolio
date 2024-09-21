@@ -73,6 +73,22 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 18,
+    title: "News App",
+    des: "This is a simple World News Mobile App using Kotlin",
+    img: "/slanted-newsapp.jpeg",
+    iconLists: ["/kotlin.svg"],
+    link: "#",
+  },
+  {
+    id: 19,
+    title: "I-Lotus-Homes Mobile App",
+    des: "This is Real Estate Mobile built with react native",
+    img: "/slanted-ilotus.jpeg",
+    iconLists: ["/reactnative-inner.svg"],
+    link: "https://expo.dev/accounts/honeybadgerng/projects/ilotus-homes/builds/d51dacab-65d2-4b3a-ae54-bc9e68cc4b6a",
+  },
+  {
     id: 5,
     title: "Yarn Social media app",
     des: "Yarn is a unique social media application that stands out by utilizing pidgin English as its primary means of user interaction. Embrace the opportunity to join and experience this novel social media experience.",
