@@ -78,7 +78,7 @@ export const projects = [
     des: "This is a ride-hailing app like Uber or Bolt. Built with React Native, google location etc",
     img: "/ryde1.jpg",
     iconLists: ["/reactnative-inner.svg"],
-    link: "https://expo.dev/artifacts/eas/a1xLGFvPN3ZUsJUP3gTUe3.apk",
+    link: "https://expo.dev/artifacts/eas/a6QDMomzyJvxKvR5nMY931.apk",
   },
   // {
   //   id: 18,
