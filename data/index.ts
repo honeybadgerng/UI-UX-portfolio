@@ -74,11 +74,19 @@ export const gridItems = [
 export const projects = [
   {
     id: 20,
-    title: "Ryde",
+    title: "Ryde Mobile App",
     des: "This is a ride-hailing app like Uber or Bolt. Built with React Native, google location etc",
     img: "/ryde1.jpg",
     iconLists: ["/reactnative-inner.svg"],
-    link: "https://expo.dev/artifacts/eas/a6QDMomzyJvxKvR5nMY931.apk",
+    link: "https://drive.google.com/drive/folders/1sySVShfdgG2Aem5X-fYV3TCtHENQEncp?usp=drive_link",
+  },
+  {
+    id: 5,
+    title: "Yarn Social media app",
+    des: "Yarn is a unique social media application that stands out by utilizing pidgin English as its primary means of user interaction. Embrace the opportunity to join and experience this novel social media experience.",
+    img: "/yarn-social-media-app.png",
+    iconLists: ["/re.svg", "/tail.svg", "/mongodb.svg", "/js.svg"],
+    link: "https://mern-social-media2.vercel.app/",
   },
   // {
   //   id: 18,
@@ -89,21 +97,22 @@ export const projects = [
   //   link: "#",
   // },
   {
+    id: 15,
+    title: "Brainwave AI ",
+    des: "An AI app that is going to revolutionize tech industry",
+    img: "/brainwave.png",
+    iconLists: ["/next.svg", "vite.svg", "/tail.svg", "/ts.svg", "/re.svg"],
+    link: "https://jsm-brainwave.com/",
+  },
+  {
     id: 19,
     title: "I-Lotus-Homes Mobile App",
     des: "This is Real Estate Mobile built with react native",
     img: "/slanted-ilotus.jpeg",
     iconLists: ["/reactnative-inner.svg"],
-    link: "https://expo.dev/accounts/honeybadgerng/projects/ilotus-homes/builds/d51dacab-65d2-4b3a-ae54-bc9e68cc4b6a",
+    link: "https://drive.google.com/drive/folders/1sySVShfdgG2Aem5X-fYV3TCtHENQEncp?usp=drive_link",
   },
-  {
-    id: 5,
-    title: "Yarn Social media app",
-    des: "Yarn is a unique social media application that stands out by utilizing pidgin English as its primary means of user interaction. Embrace the opportunity to join and experience this novel social media experience.",
-    img: "/yarn-social-media-app.png",
-    iconLists: ["/re.svg", "/tail.svg", "/mongodb.svg", "/js.svg"],
-    link: "https://mern-social-media2.vercel.app/",
-  },
+
   {
     id: 12,
     title: "Xclusive Realtors",
@@ -112,14 +121,7 @@ export const projects = [
     iconLists: ["/next.svg", "/re.svg", "/js.svg", "/fm.svg"],
     link: "https://uae-properties-teal.vercel.app/",
   },
-  {
-    id: 15,
-    title: "Brainwave",
-    des: "An AI app that is going to revolutionize tech industry",
-    img: "/brainwave.png",
-    iconLists: ["/next.svg", "vite.svg", "/tail.svg", "/ts.svg", "/re.svg"],
-    link: "https://jsm-brainwave.com/",
-  },
+
   {
     id: 16,
     title: "My Next.js Portfolio",
