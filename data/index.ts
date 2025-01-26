@@ -93,7 +93,7 @@ export const projects = [
     title: "Bezzie Mobile App",
     des: "This is Full-stack eCommerce app built with ERPNext & React Native ",
     img: "/bezzie.jpeg",
-    iconLists: ["/kotlin.svg"],
+    iconLists: ["/kotlin.svg", "reactnative-inner.svg", "erp.svg"],
     link: "https://drive.google.com/drive/folders/1sySVShfdgG2Aem5X-fYV3TCtHENQEncp?usp=drive_link",
   },
   {
